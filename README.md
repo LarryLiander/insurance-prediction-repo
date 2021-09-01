@@ -12,5 +12,3 @@ and MinMaxScaler to normalize the numerical attributes.
 ### 2. upload the train.csv file
 ### 3. run the code from top to bottom
 ### 4. Have some play with the model
-
-trying git push
